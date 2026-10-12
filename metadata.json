@@ -1,0 +1,6 @@
+{
+  "name": "Text-Based Hangman Game",
+  "description": "A classic text-based console Hangman game featuring 5 predefined words, a 6-guess limit, and interactive console input and output exploring core programming concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
